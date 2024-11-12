@@ -6,7 +6,7 @@ const awsmobile = {
     "aws_cognito_identity_pool_id": "us-west-2:99940f93-89b4-4a0f-ab6f-851f97231ba5",
     "aws_cognito_region": "us-west-2",
     "aws_user_pools_id": "us-west-2_nS2GkTTuy",
-    "aws_user_pools_web_client_id": "3tcqvdsc3luou5sejvadekrelv",
+    "aws_user_pools_web_client_id": "6cdn77261tetoetta490u19crn ",
     "oauth": {},
     "aws_cognito_username_attributes": [
         "EMAIL"
